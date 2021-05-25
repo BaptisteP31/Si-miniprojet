@@ -1,7 +1,7 @@
 # Verrou Connecté
 
 ## Concept
-Utilisation d'un verrour connecté pour faciliter l'entrée et la sortie de la maison, contrôle par téléphone.
+Utilisation d'un verrou connecté pour faciliter l'entrée et la sortie de la maison, contrôle par téléphone.
 
 ## Pourquoi
 La modification de ce robot est notre projet d'innovation technologique et d'ingéniérie et développement durable pour notre oral de BAC STI2D en première.
