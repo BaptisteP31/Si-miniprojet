@@ -3,8 +3,8 @@
 ## Concept
 Utilisation d'un verrou connecté pour faciliter l'entrée et la sortie de la maison, contrôle par téléphone.
 
-## Pourquoi
-La modification de ce robot est notre projet d'innovation technologique et d'ingéniérie et développement durable pour notre oral de BAC STI2D en première.
+## Réalisation
+Réalisé en groupe de 3, utilisation de blynk pour le contrôle par téléphone, tinkercad pour la simulation d'arduino et d'électronique et SolidWorks pour la modélisation 3D.
 
 ## Credits
 * Baptiste P. ; Julien B. ; Benjamin C
